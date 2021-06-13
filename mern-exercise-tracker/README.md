@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-mongodb+srv://test:test@cluster0.vssm0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
